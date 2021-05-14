@@ -1,7 +1,7 @@
 ### Hi!/Hola!/今日は! 👋
 
 - 🚀 I’m currently working as CTO at [goxoapp](https://goxoapp.com)
-- 🌱 I’m currently learning everything which falls on my hand (k8s, golang, node, ...)
+- 🌱 I enjoy learning everything which falls on my hand (k8s, golang, node, ...)
 - 👯 I’m looking to collaborate on any product-driven project
 - 🤔 I’m looking for help with being a better engineering manager
 - 💬 Ask me about google cloud, solution architecting, product management & dev, venture & business strategy
