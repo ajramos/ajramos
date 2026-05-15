@@ -1,6 +1,6 @@
 ### Hi!/Hola!/今日は! 👋
 
-- 🚀 I’m currently working as Staff Cloud Architect at [DoiT International](https://www.doit.com/)
+- 🚀 I’m currently working as Manager of CX Engineering at [DoiT International](https://www.doit.com/)
 - 🌱 I enjoy learning everything which falls on my hand (k8s, golang, node, genAI...)
 - 👯 I’m looking to collaborate on any product-driven project
 - 🤔 I’m looking for help with being a better companies, product and tech builder
